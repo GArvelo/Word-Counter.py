@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the [position name] role at your company. As a Motivated AWS Certified Cloud Practitioner, Google IT Support certified, and IT professional with over 15 years of experience in the IT field, I believe I have the skills and qualifications necessary to excel in this role.
+
+In addition to my technical expertise, I hold an A.S in Applied Science Visual Communications from Katherine Gibbs College and a Certification in Mechanics from Apex Technical School. My diverse background allows me to bring a unique perspective to the role, which I believe will enable me to make valuable contributions to your team.
+
+I have extensive experience in hardware, mobile, PC, and other device repairs, restoring devices, troubleshooting issues, and developing automated scripts for cloud platforms to ensure effective deployment and integration of web applications. I have also gained experience in managing a team and training departmental staff. My strong customer service and interpersonal skills make me an effective communicator and team player. I am a multitasker and can work independently or on teams. My proven track record of finding creative solutions to solve problems demonstrates my commitment to delivering high-quality work.
+
+As an AWS Certified Cloud Practitioner and Google IT Support certified professional, I have worked with a variety of clients and helped them transition to the cloud, reducing their infrastructure costs, and improving their overall security posture. My passion for cloud computing and IT support drives me to continually learn and improve my skills.
+
+Thank you for considering my application. I look forward to discussing my qualifications further and demonstrating how I can make a meaningful contribution to your organization.
+
+Sincerely,
+[Your Name]
